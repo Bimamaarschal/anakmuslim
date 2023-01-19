@@ -2,20 +2,20 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Hijaiyah</title>
+    <title>Paket Hijaiyah</title>
     <meta name="description" content="360&deg; Image - A-Frame" />
     <script src="../assets/dist/aframe-master.js"></script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
     <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script>
-
   </head>
 
   <body>
+
     <a-scene embedded arjs>
       <a-marker
         type="pattern"
-        url="../assets/patt/as1.patt"
+        url="../patt/as1.patt"
       >
         <a-image
           src="../assets/imgs/k1.png"
@@ -25,9 +25,8 @@
           animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
         />
       </a-marker>
-
-
       <a-entity camera></a-entity>
     </a-scene>
+
   </body>
 </html>

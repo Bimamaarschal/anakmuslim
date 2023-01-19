@@ -8,7 +8,7 @@
 
 =========================================================
 Disesuiakan Oleh Bima Maarschal 
-Project anakMuslim
+Project AnakMuslim
 =========================================================
 
 */
@@ -2192,7 +2192,7 @@ pre code {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #ffdfd7;
+  border-color: #39c984;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(255, 122, 87, 0.25);
 }
@@ -4017,7 +4017,7 @@ input[type="button"].btn-block {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #ffdfd7;
+  border-color: #39c984;
 }
 
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
@@ -4163,7 +4163,7 @@ input[type="button"].btn-block {
 }
 
 .custom-select:focus {
-  border-color: #ffdfd7;
+  border-color: #39c984;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(255, 122, 87, 0.25);
 }
@@ -4222,7 +4222,7 @@ input[type="button"].btn-block {
 }
 
 .custom-file-input:focus ~ .custom-file-label {
-  border-color: #ffdfd7;
+  border-color: #39c984;
   box-shadow: 0 0 0 0.2rem rgba(255, 122, 87, 0.25);
 }
 
@@ -4493,7 +4493,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #eaf0fc #eaf0fc #dee2e6;
+  border-color: #eaf0fc #eaf0fc #39c984;
 }
 
 .nav-tabs .nav-link.disabled {
@@ -5103,6 +5103,16 @@ input[type="button"].btn-block {
 
 .card-link + .card-link {
   margin-left: 1.25rem;
+}
+
+.card-body-1 a {
+  color: #495057;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.card-body-1 a:hover {
+  color: #ffff;
 }
 
 .card-header {
