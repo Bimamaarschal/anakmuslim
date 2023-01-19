@@ -517,6 +517,27 @@
     </section>
     <!-- Kata-Kata Akhir -->
 
+    <!-- Pengingat Awal -->
+    <section class="bg-gray p-0 section">
+      <div class="container">
+        <div class="card bg-primary">
+          <div class="card-body text-light">
+            <div class="row align-items-center">
+              <div class="col-sm-9 text-center text-sm-left">
+                <p class="mb-3">
+                  Insyaallah Akan berlanjut dengan Museum 3D model kejayaan Muslim.
+                </p>
+              </div>
+              <div class="col-sm-3 text-center text-sm-right">
+                <button class="btn btn-light rounded">Lihat Progress</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Pengingat Akhir -->
+
     <!-- Kontak Awal -->
     <section id="kontak" class="position-relative section">
       <div class="container text-center">
@@ -528,7 +549,7 @@
 
         <div class="contact text-left">
           <div class="form">
-            <h6 class="subtitle">Tersedia 12/5</h6>
+            <h6 class="subtitle">Tersedia 8/5</h6>
             <h6 class="section-title mb-4">Isi Mail</h6>
             <form>
               <div class="form-group">
