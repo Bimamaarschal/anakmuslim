@@ -1,17 +1,3 @@
-/*!
-=========================================================
-=========================================================
-
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
-
-=========================================================
-Disesuiakan Oleh Bima Maarschal 
-Project AnakMuslim
-=========================================================
-
-*/
 
 $(document).ready(function(){
 	$(".nav-link").on('click', function(event) {
