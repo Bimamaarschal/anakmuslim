@@ -1,15 +1,26 @@
 # Security Policy
 
-## Supported Versions
+## Dilindungi Hak Cipta
 
 
-Saat ini AnakMuslim by BimaMaarschal di dokumentasikan untuk mengetahui referensi fungsi dan code sumber terbuka yang digunakan.
+Saat ini AnakMuslim dibuat oleh BimaMaarschal di dokumentasikan secara detail pada dokumentasi projek.
+Untuk mengetahui referensi fungsi dan code sumber terbuka yang digunakan anda dapat menghubungi Gmail Bimamarschal@gmail.com
+
+## Versi
+
 
 | Version | Supported               |
 | ------- | ----------------------- |
 | 1.0     | Privacy Policy Active   |
 
 
-## Reporting a Vulnerability
+## Laporan
 
-AnakMuslim Dibuat oleh BimaMaarschal di lindungi oleh Hak Cipta Akses dan Pengunaan 
+AnakMuslim Dibuat oleh BimaMaarschal di lindungi oleh Hak Cipta Akses dan Akses Pengunaan 
+
+## Lain-lain
+
+Tidak di perkenankan menjual (komersial) code, akses, dan data.
+Diperbolehkan mengunakan untuk referensi pengetahuan dan pembelajaran.
+
+Saya Bima Maarschal saya ucapkan terima kasih.
