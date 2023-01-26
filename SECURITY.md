@@ -1,4 +1,4 @@
-# Security Policy
+# Kebijakan Keamanan
 
 ## Dilindungi Hak Cipta
 
