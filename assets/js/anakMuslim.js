@@ -29,3 +29,14 @@ function Exit() {
     alert("Keluar, dibatalkan.");
   }
 }
+
+
+function Maaf() {
+  if (window.confirm("Mohon maaf, saat ini fitur belum tersedia. ")) 
+  {
+    window.alert(
+      "Terima kasih, anda dapat memilih fitur lain."
+    );
+  }
+}
+
