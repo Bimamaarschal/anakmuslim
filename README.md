@@ -27,7 +27,8 @@ Insyaallah saya akan terus berusaha memperbaiki, mengembangkan dan meUpdate, apl
 ```
 AnakMuslim adalah perangkat lunak berbasis web yang digunakan sebagai media belajar 
 Islam yang menyediakan ruang belajar berbasis Virtual Reality, Audio Simulasi, dan 
-Augmented Reality. AnakMuslim memiliki satu tujuan yaitu untuk membantu setiap anak-anak Muslim agar dapat memahami lebih dalam, tentang Islam dan indahnya berbagi 
+Augmented Reality. AnakMuslim memiliki satu tujuan yaitu untuk membantu setiap 
+anak-anak Muslim agar dapat memahami lebih dalam, tentang Islam dan indahnya berbagi 
 dengan sesama manusia.
 
 
