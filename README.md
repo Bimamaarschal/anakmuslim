@@ -9,6 +9,11 @@
   <p align="center">
     <strong>Semua Kode terdokumentasi di <a href="https://github.com/Bimamaarschal/AnakMuslim">https://github.com/Bimamaarschal/AnakMuslim</a></strong>.
   </p>
+  <br>
+  <p align="center">
+    <strong>Semua Kode tersimpan di <a href="https://drive.google.com/drive/folders/1yrW4XDKotKfDJ1tseRNVDeH4VhmCpE8q?usp=sharing">Google Drive</a></strong>.
+  </p>
+  <br>
 </p>
 
 **✍ Kata Pengantar** 
