@@ -7,11 +7,16 @@
 <p align="center">
   <img src="https://bimamaarschal.github.io/AnakMuslim/assets/imgs/logo.png" width="250" alt="">
   <p align="center">
-    <strong>Semua Kode terdokumentasi di <a href="https://github.com/Bimamaarschal/AnakMuslim">https://github.com/Bimamaarschal/AnakMuslim</a></strong>.
+    <strong>Semua Kode terdokumentasi di <a href="https://github.com/Bimamaarschal/AnakMuslim">Github</a></strong>.
   </p>
   <br>
   <p align="center">
     <strong>Semua Kode tersimpan di <a href="https://drive.google.com/drive/folders/1yrW4XDKotKfDJ1tseRNVDeH4VhmCpE8q?usp=sharing">Google Drive</a></strong>.
+  </p>
+  <br>
+  <br>
+  <p align="center">
+    <strong>Tampilkan Aplikasi <a href="https://bimamaarschal.github.io/AnakMuslim/">Web</a></strong>.
   </p>
   <br>
 </p>
